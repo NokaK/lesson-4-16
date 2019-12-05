@@ -16,6 +16,7 @@ section {
 .title-h4 {
 	color: #3D58A6;
 	font-size: 22px;
+	font-family: 'ALK Rex Bold';
 }
 .main-wrapper {
 	margin: 10px 0 0;
@@ -28,4 +29,5 @@ section {
 	display: inline-block;
 	width: 350px;
 	vertical-align: top;
+	font-family: "ALK Life", sans-serif;
 }
